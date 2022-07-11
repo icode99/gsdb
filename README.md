@@ -15,3 +15,9 @@ The following feature sets are looking to be done for Release v1.0:
 * data is searchable
 * data is retrievable
 * data can be exported securely
+
+
+#### Technology Stack
+
+* C++17
+* LibreSSL
