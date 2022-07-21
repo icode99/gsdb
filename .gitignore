@@ -35,3 +35,6 @@ gsdb
 # TAGS
 .tags
 
+# MAC
+.DS_Store
+
